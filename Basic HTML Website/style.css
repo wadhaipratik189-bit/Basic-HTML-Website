@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-left: 0;
+}
+header ul > li{
+    cursor: pointer;
+}
+header ul > li:hover{
+    color: orangered;
+}
+header span{
+    color: red;
+    position: relative;
+    display: grid;
+    place-items: center;
+    padding: 50px 0;
+}
+.sections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 20px;
+    gap: 15px;
+}
+.sections ul{
+    list-style-type: square;
+}
+.projects > span{
+    display: block;
+    border-bottom: 1px solid black;
+    padding: 10px 20px 20px 5px;
+    cursor: pointer;
+}
+.projects > span:hover{
+    color: orangered;
+}
+.experience > span{
+    border-bottom: 1px solid black;
+    padding: 10px 20px 20px 5px;
+    display: block;
+}
+.experience a{
+    text-decoration: none;
+}
+.experience a:hover{
+    color: orangered;
+}
+.review{
+    margin: 0 20px;
+}
+.review-boxes{
+    display: flex;
+    gap: 20px;
+}
+.review > div > div{
+    border: 1px solid black;
+    border-radius: 22px;
+    padding: 14px 22px;
+}
+footer{
+    padding: 140px 0 50px 0;
+    display: grid;
+    place-items: center;
+}
