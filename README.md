@@ -10,4 +10,4 @@ features
 - reponsive web page
 - uses flex box and grid
   
-#link - https://github.com/wadhaipratik189-bit/Basic-HTML-Website
+#link https://github.com/wadhaipratik189-bit/Basic-HTML-Website
