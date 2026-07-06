@@ -10,5 +10,5 @@ features
 - reponsive web page
 - uses flex box and grid
   
-https://basic-html-webspage.netlify.app/
-https://github.com/wadhaipratik189-bit/Basic-HTML-Website
+link url: https://basic-html-webspage.netlify.app/
+
