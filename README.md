@@ -1,4 +1,5 @@
-# Basic-HTML-Website
+#project title
+ Basic-HTML-Website
 the webpage shows how to arrange the tags or sematic tags to strcuture the web page.
 
 features
@@ -9,6 +10,12 @@ features
 - creating a navbar
 - reponsive web page
 - uses flex box and grid
+
+  language
+  1. html
+  2. css
   
-link url: https://basic-html-webspage.netlify.app/
+netlify link url: https://basic-html-webspage.netlify.app/
+github link: https://github.com/wadhaipratik189-bit/Basic-HTML-Website
+
 
